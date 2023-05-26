@@ -24,11 +24,11 @@ betterQuill is a python script that improves quill.org, a free online ELA learni
 
 **`Ok so lets say I am doing some Quill and learning my english, and then, I get to a problem that I am not sure about. I dont want to get this question wrong because then I would have to do the entire lesson again (very annoying)`**
 
-<img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20133724.png" alt="first" width="50%" height="50%" >
+<img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20133724.png" alt="first"  >
 
 **`Now what I can do is, ctrl + alt + u and then boom, you have the answer and a detailed explanation.`**
 
-<img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20134058.png" alt="first" width="50%" height="50%" >
+<img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20134058.png" alt="first" >
 
 **`If you wanted to, you could even do ctrl + alt + m to directly have the answer move to the text box, and then submit it.`**
 
@@ -37,11 +37,11 @@ betterQuill is a python script that improves quill.org, a free online ELA learni
 ***
 **`The connect, grammar, and evidence sections are pretty similar. Lets try a 'proofreading' one The proofreading lessons typically give you a passage and ask you to make some changes and improvements.`**
 
-<img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20135000.png" alt="first" width="50%" height="50%" >
+<img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20135000.png" alt="first" >
 
 **`by pressing ctrl + alt + u it gives you the correct passage with all the fixes highlighted:`**
 
-<img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20134910.png" alt="first" width="50%" height="50%" >
+<img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20134910.png" alt="first" >
 
 **`This allows you to check your work and even gives you a detailed explanation of why this change should be made. Hover over some higlighted text for an explanation.`**
 
