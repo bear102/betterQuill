@@ -45,6 +45,7 @@ betterQuill is a python script that improves quill.org, a free online ELA learni
 <br><br>
 
 **The `connect`, `grammar`, and `evidence` sections are pretty similar. Lets try a `proofreading` one The proofreading lessons typically give you a passage and ask you to make some changes and improvements.**
+
 <br><br>
 
 <img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20135000.png" alt="first"  >
