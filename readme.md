@@ -27,8 +27,11 @@ betterQuill is a python script that improves quill.org, a free online ELA learni
 <br><br>
 
 <img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20133724.png" alt="first">
+
 <br><br>
+
 **Now what I can do is, `ctrl + alt + u` and then boom, you have the answer and a detailed explanation.**
+
 <br><br>
 
 <img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20134058.png" alt="first"  >
