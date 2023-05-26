@@ -49,9 +49,15 @@ betterQuill is a python script that improves quill.org, a free online ELA learni
 
 <img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20135000.png" alt="first"  >
 
+<br><br>
+
 **by pressing `ctrl + alt + u` it gives you the correct passage with all the fixes highlighted:**
 
+<br><br>
+
 <img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20134910.png" alt="first" >
+
+<br><br>
 
 **This allows you to check your work and even gives you a detailed explanation of why this change should be made. Hover over some higlighted text for an explanation.**
 
