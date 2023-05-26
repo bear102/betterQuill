@@ -22,11 +22,11 @@ betterQuill is a python script that improves quill.org, a free online ELA learni
 
 ## **Example**
 
-```**Ok so lets say I am doing some Quill and learning my english, and then, I get to a problem that I am not sure about. I dont want to get this question wrong because then I would have to do the entire lesson again (very annoying)**```
+`**Ok so lets say I am doing some Quill and learning my english, and then, I get to a problem that I am not sure about. I dont want to get this question wrong because then I would have to do the entire lesson again (very annoying)**`
 
 <img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20133724.png" alt="first" width="50%" height="50%" >
 
-```**Now what I can do is, `ctrl + alt + u`, and then boom, you have the answer and a detailed explanation.**```
+`**Now what I can do is, ***ctrl + alt + u***, and then boom, you have the answer and a detailed explanation.**`
 
 <img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20134058.png" alt="first" width="50%" height="50%" >
 
