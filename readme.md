@@ -26,20 +26,20 @@ betterQuill is a python script that improves quill.org, a free online ELA learni
 
 <img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20133724.png" alt="first" width="50%" height="50%" >
 
-**`Now what I can do is, ***ctrl + alt + u***, and then boom, you have the answer and a detailed explanation.`**
+**`Now what I can do is, ctrl + alt + u and then boom, you have the answer and a detailed explanation.`**
 
 <img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20134058.png" alt="first" width="50%" height="50%" >
 
-**If you wanted to, you could even do `ctrl + alt + m` to directly have the answer move to the text box, and then submit it.**
+**If you wanted to, you could even do `***ctrl + alt + m`***` to directly have the answer move to the text box, and then submit it.**
 
 **now you can make corrections or just submit and go on to the next question by hitting the \` symbol (top left of keyboard under escape key)**
 
 ***
-**`The `connect`, `grammar`, and `evidence` sections are pretty similar. Lets try a `proofreading` one The proofreading lessons typically give you a passage and ask you to make some changes and improvements.`**
+**`The connect, grammar, and evidence sections are pretty similar. Lets try a `proofreading` one The proofreading lessons typically give you a passage and ask you to make some changes and improvements.`**
 
 <img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20135000.png" alt="first" width="50%" height="50%" >
 
-**`by pressing ***`ctrl + alt + u`*** it gives you the correct passage with all the fixes highlighted:`**
+**`by pressing ctrl + alt + u it gives you the correct passage with all the fixes highlighted:`**
 
 <img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20134910.png" alt="first" width="50%" height="50%" >
 
