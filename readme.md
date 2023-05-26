@@ -22,10 +22,12 @@ betterQuill is a python script that improves quill.org, a free online ELA learni
 
 ## **Example**
 Ok so lets say I am doing some Quill and learning my english, and then, I get to a problem that I am not sure about. I dont want to get this question wrong because then I would have to do the entire lesson again (very annoying) 
-![first](https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20133724.png){: width="50%" height="50%"}
+
+<img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20133724.png" alt="first" width="50%" height="50%">
 
 Now what I can do is, **`ctrl + alt + u`**, and then boom, you have the answer and a detailed explanation.
-![second](https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20134058.png){: width="50%" height="50%"}
+
+<img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20134058.png" alt="first" width="50%" height="50%">
 
 If you wanted to, you could even do **`ctrl + alt + m`** to directly have the answer move to the text box, and then submit it.
 
@@ -33,10 +35,12 @@ now you can make corrections or just submit and go on to the next question by hi
 
 
 The `connect`, `grammar`, and `evidence` sections are pretty similar. Lets try a `proofreading` one The proofreading lessons typically give you a passage and ask you to make some changes and improvements.
-![third](https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20135000.png){: width="50%" height="50%"}
+
+<img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20135000.png" alt="first" width="50%" height="50%">
 
 by pressing **`ctrl + alt + u`** it gives you the correct passage with all the fixes highlighted:
-![fourth](https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20134910.png){: width="50%" height="50%"}
+
+<img src="[https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20134058.png](https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20134910.png)" alt="first" width="50%" height="50%">
 
 
 This allows you to check your work and even gives you a detailed explanation of why this change should be made. Hover over some higlighted text for an explanation.
