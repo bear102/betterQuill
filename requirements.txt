@@ -1,0 +1,4 @@
+selenium
+pynput
+pyperclip
+requests
