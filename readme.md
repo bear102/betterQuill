@@ -24,19 +24,25 @@ betterQuill is a python script that improves quill.org, a free online ELA learni
 
 **Ok so lets say I am doing some Quill and learning my english, and then, I get to a problem that I am not sure about. I dont want to get this question wrong because then I would have to do the entire lesson again (very annoying)**
 
+<br><br>
 
 <img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20133724.png" alt="first">
-
+<br><br>
 **Now what I can do is, `ctrl + alt + u` and then boom, you have the answer and a detailed explanation.**
+<br><br>
 
 <img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20134058.png" alt="first"  >
+<br><br>
 
 **If you wanted to, you could even do `ctrl + alt + m` to directly have the answer move to the text box, and then submit it.**
-
 **now you can make corrections or just submit and go on to the next question by hitting the \` symbol (top left of keyboard under escape key)**
+<br><br>
 
 ***
+<br><br>
+
 **The `connect`, `grammar`, and `evidence` sections are pretty similar. Lets try a `proofreading` one The proofreading lessons typically give you a passage and ask you to make some changes and improvements.**
+<br><br>
 
 <img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20135000.png" alt="first"  >
 
