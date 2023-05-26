@@ -30,12 +30,12 @@ betterQuill is a python script that improves quill.org, a free online ELA learni
 
 <img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20134058.png" alt="first" width="50%" height="50%" >
 
-**If you wanted to, you could even do `***ctrl + alt + m***` to directly have the answer move to the text box, and then submit it.**
+**If you wanted to, you could even do ctrl + alt + m to directly have the answer move to the text box, and then submit it.**
 
 **now you can make corrections or just submit and go on to the next question by hitting the \` symbol (top left of keyboard under escape key)**
 
 ***
-**`The connect, grammar, and evidence sections are pretty similar. Lets try a `proofreading` one The proofreading lessons typically give you a passage and ask you to make some changes and improvements.`**
+**`The connect, grammar, and evidence sections are pretty similar. Lets try a 'proofreading' one The proofreading lessons typically give you a passage and ask you to make some changes and improvements.`**
 
 <img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20135000.png" alt="first" width="50%" height="50%" >
 
