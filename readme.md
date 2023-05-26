@@ -35,15 +35,15 @@ betterQuill is a python script that improves quill.org, a free online ELA learni
 **now you can make corrections or just submit and go on to the next question by hitting the \` symbol (top left of keyboard under escape key)**
 
 ***
-**The `connect`, `grammar`, and `evidence` sections are pretty similar. Lets try a `proofreading` one The proofreading lessons typically give you a passage and ask you to make some changes and improvements.**
+**`The `connect`, `grammar`, and `evidence` sections are pretty similar. Lets try a `proofreading` one The proofreading lessons typically give you a passage and ask you to make some changes and improvements.`**
 
 <img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20135000.png" alt="first" width="50%" height="50%" >
 
-**by pressing `ctrl + alt + u` it gives you the correct passage with all the fixes highlighted:**
+**`by pressing ***`ctrl + alt + u`*** it gives you the correct passage with all the fixes highlighted:`**
 
 <img src="https://github.com/bear102/betterQuill/blob/main/images/Screenshot%202023-05-26%20134910.png" alt="first" width="50%" height="50%" >
 
-**This allows you to check your work and even gives you a detailed explanation of why this change should be made. Hover over some higlighted text for an explanation.**
+**`This allows you to check your work and even gives you a detailed explanation of why this change should be made. Hover over some higlighted text for an explanation.`**
 
 
 
