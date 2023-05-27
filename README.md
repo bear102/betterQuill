@@ -81,9 +81,9 @@ betterQuill is a python script that improves quill.org, a free online ELA learni
 ``` python
 pip install -r requirements.txt
 ```
-1. install chromedriver [here](https://chromedriver.chromium.org/downloads). To check which version of chrome you have installed, click the 3 dots at the top right > help > about google chrome
+3. install chromedriver [here](https://chromedriver.chromium.org/downloads). To check which version of chrome you have installed, click the 3 dots at the top right > help > about google chrome
    
-2. extract the chromedriver zip file and in the  `main.py` file change the chrome_driver_path to the path to your chromedriver
+4. extract the chromedriver zip file and in the  `main.py` file change the chrome_driver_path to the path to your chromedriver
 
 ``` python
 chrome_driver_path = r"path\to\chromedriver.exe"
